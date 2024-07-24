@@ -228,3 +228,4 @@ voting_open = True
 
 create_db()
 User()
+print("hi")
